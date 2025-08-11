@@ -8,4 +8,7 @@ __pycache__/
 
 # project artifacts
 analytics.duckdb
-outputs/
+
+# keep outputs dir but ignore files
+outputs/*
+!outputs/.gitkeep

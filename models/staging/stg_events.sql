@@ -6,4 +6,4 @@ SELECT
   CAST(event AS VARCHAR) AS event,
   CAST(ts AS TIMESTAMP) AS ts,
   DATE_TRUNC('day', ts) AS event_date
-FROM read_csv_auto('seeds/events.csv', HEADER TRUE);
+FROM read_csv_auto('seeds/events.csv', header=True);

@@ -14,3 +14,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python scripts/run_once.py
 ```
+
+## Screenshots
+![Funnel (Last Day)](images/funnel_last_day.png)
+![7-Day Retention](images/retention_curve.png)

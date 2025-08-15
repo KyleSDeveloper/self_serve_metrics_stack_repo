@@ -19,3 +19,4 @@ python scripts/run_once.py
 ![Funnel (Last Day)](images/funnel_last_day.png)
 ![7-Day Retention](images/retention_curve.png)
 ![CI](https://github.com/KyleSDeveloper/self_serve_metrics_stack_repo/actions/workflows/build.yml/badge.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
